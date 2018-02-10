@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\829d412a8d308e4a4b54d99102a50e8e91f0606a\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\318b6b39dbb1cc7ddeaf5d97c7e096a82cf2c0b4\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\318b6b39dbb1cc7ddeaf5d97c7e096a82cf2c0b4\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\318b6b39dbb1cc7ddeaf5d97c7e096a82cf2c0b4\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\318b6b39dbb1cc7ddeaf5d97c7e096a82cf2c0b4\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    }
+]

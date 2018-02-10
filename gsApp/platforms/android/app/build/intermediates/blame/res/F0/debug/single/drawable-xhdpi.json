@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\icon.png",
+        "source": "D:\\global spaze\\gsApp\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\background.png",
+        "source": "D:\\global spaze\\gsApp\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\logo.png",
+        "source": "D:\\global spaze\\gsApp\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    }
+]

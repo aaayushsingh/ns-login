@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\318b6b39dbb1cc7ddeaf5d97c7e096a82cf2c0b4\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\318b6b39dbb1cc7ddeaf5d97c7e096a82cf2c0b4\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\318b6b39dbb1cc7ddeaf5d97c7e096a82cf2c0b4\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\318b6b39dbb1cc7ddeaf5d97c7e096a82cf2c0b4\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\global spaze\\gsApp\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Ayush Singh\\.android\\build-cache\\629efddf37b50a17a5fba60ba7b3fb5ee1a28050\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

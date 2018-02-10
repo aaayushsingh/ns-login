@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "296111730825",
+    "firebase_url": "https://gsapp-1c27c.firebaseio.com",
+    "project_id": "gsapp-1c27c",
+    "storage_bucket": "gsapp-1c27c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296111730825:android:57a8f0680db77a0a",
+        "android_client_info": {
+          "package_name": "org.nativescript.gsApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296111730825-7hadqa6k798l1a206un172frf99v9mt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7ySOXNJ5qLzvCjkS2Z2T_HhRlFEEjEA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

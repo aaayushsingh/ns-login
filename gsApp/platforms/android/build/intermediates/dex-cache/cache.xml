@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ayush Singh\.android\build-cache\98c2b852d707b975590bd69203735dd24a618fd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="D:\global spaze\gsApp\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_2bcf1d65ee19e707c6c71718d121353e3f24c7bd.jar" />
+    </item>
+
+</items>
